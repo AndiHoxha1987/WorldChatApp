@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">World ChatApp</string>
+    <string name="forget_password">Forgot Password ?</string>
+    <string name="login">Login</string>
+    <string name="need_new_account">Need new Account ?</string>
+    <string name="password">Password…</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="email">Email…</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="pick_a_photo">Pick a Photo</string>
+    <string name="image">Image</string>
+    <string name="username">username</string>
+    <string name="hey_i_am_available_now">hey i am available now</string>
+    <string name="update">Update</string>
+    <string name="settings">Settings</string>
+</resources>
